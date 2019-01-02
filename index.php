@@ -1,2 +1,2 @@
 <?php
-    ehco 'Hello Github!';
+    ehco 'Hello Github.';
